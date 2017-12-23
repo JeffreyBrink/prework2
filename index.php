@@ -4,6 +4,6 @@
 		<title>Practice makes perfect</title>
 	</head>
 	<body>
-		<p>Practice makes perfect</p>
+		<p>Practice makes perfect if you stay at it.</p>
 	</body>
 </html>
